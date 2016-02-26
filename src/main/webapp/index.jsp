@@ -6,10 +6,10 @@
 	<br>
 	<div>
 		<h2>
-			Hey You..!! This is your 1st Spring MCV Tutorial..<br> <br>
+			Teste de Build automático com Jenkins no OpenShift.
 		</h2>
 		<h3>
-			<a href="welcome.html">Click here to See Welcome Message... </a>(to @RequestMapping("/welcome"))
+			<a href="welcome.html">Teste da Aplicação com Spring</a>(to @RequestMapping("/welcome"))
 		</h3>
 	</div>
 </body>
