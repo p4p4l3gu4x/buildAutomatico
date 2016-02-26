@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Index</title>
+<title>Teste De Build Automático com Jenkins</title>
 </head>
 <body>
 	<br>
